@@ -1,0 +1,864 @@
+.main{
+    margin: auto;
+}
+
+
+.head{   
+position: relative;
+width: 213px;
+margin-top: 40px;
+margin-left: 53;
+font-family: Lato;
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 49px;
+
+
+color: #355075;
+}
+
+.para1{
+    position: relative;
+width: 256px;
+margin-top: -27px;
+margin-left: 32;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #355075;
+}
+
+.line{
+    position: relative;
+    width: 96.3px;
+    height: 1.92px;
+    padding-top: -77px;    
+    background: #FFB54E;
+    margin-left: 8.94px;
+  }
+  .image{
+      
+position: relative;
+width: 285px;
+height: 240px;
+margin-left: 8.94px;
+margin-top: 6.04px;
+background: url("mask.png");
+background-size: cover; 
+
+  }
+
+  .logo{
+    position: relative;
+    width: 142px;
+    height: 71.74px;
+    margin-top: -215px;
+    padding-left: 91px;
+  }
+
+  .profile{
+    position: relative;
+    width: 64px;
+  
+    margin-left: 115px;
+    border: 3px solid white;
+   border-radius: 50%;
+  
+}
+
+  .para2{
+    position: relative;
+    width: 259px;
+    
+    margin-top: -130px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 154%;
+
+    text-align: center;
+
+color: #FFFFFF; 
+    padding-left: 22px;
+    opacity: 0.87;
+  }
+
+
+  .back_rect{
+     
+position: relative;
+width: 304px;
+
+margin-left: 8.94px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.05);
+box-sizing: border-box;
+box-shadow: 0px 4px 29px #D6E1E5;
+  }
+
+  .name{
+    position: relative;
+    width: 108px;
+    height: 22px;
+    margin-left: 97;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 21px;
+   
+    text-align: center;
+    
+    color: #355075;
+  }
+
+  .para3{
+      
+position: relative;
+width: 139px;
+height: 33px;
+margin-left: 82;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+margin-top: -15px;
+color: #355075;
+
+opacity: 0.7;
+  }
+
+
+
+  .para4{
+    position: relative;
+    width: 267px;
+    height: 341px;
+    margin-left: 18;
+    margin-top: 0px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    
+    color: #355075;
+    
+    opacity: 0.87;
+
+  }
+
+  .button{
+    position: relative;
+    width: 52px;
+    height: 18px;
+    margin-left: 130px;
+    margin-top: 32;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+/* media query for 450 resolution  */
+@media only screen and (min-width: 450px){
+
+    
+  .head{   
+      position: relative;
+      width: 213px;
+      margin-top: 40px;
+      margin-left: 118;
+      font-family: Lato;
+      font-style: normal;
+      font-weight: 200;
+      font-size: 20px;
+      line-height: 49px;
+      
+      
+      color: #355075;
+      }
+      .para1{
+          position: relative;
+      width: 387px;
+      margin-top: -27px;
+      margin-left: 31;
+      font-family: Lato;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 22px;
+      text-align: center;
+      
+      color: #355075;
+      }
+      
+      
+      .back_rect{
+       
+          position: relative;
+          width: 450px;
+          
+          margin-left: 8.94px;
+          
+          background: #FFFFFF;
+          border: 1px solid rgba(0, 0, 0, 0.05);
+          box-sizing: border-box;
+          box-shadow: 0px 4px 29px #D6E1E5;
+            }
+  
+            .image{
+              position: relative;
+              width: 426px;
+              height: 220px;
+              margin-left: 8.94px;
+              margin-top: 6.04px;
+              background: url("mask2.png");
+              background-size: cover; 
+                }
+  
+                .logo{
+                  position: relative;
+                  width: 142px;
+                  height: 71.74px;
+                  margin-top: -215px;
+                  padding-left: 154px;
+                }
+              
+                .profile{
+                  position: relative;
+                  width: 64px;
+                  margin-top: 16px;
+                  margin-left: 190px;
+                  border: 3px solid white;
+                 border-radius: 50%;
+                
+              }
+  
+                .para2{
+                  position: relative;
+                  width: 321px;
+                  
+                  margin-top: -130px;
+                  
+                  font-family: Lato;
+                  font-style: normal;
+                  font-weight: normal;
+                  font-size: 14px;
+                  line-height: 154%;
+              
+                  text-align: center;
+              
+              color: #FFFFFF; 
+                  padding-left: 64px;
+                  opacity: 0.87;
+                }
+            
+                .name{
+                  position: relative;
+                  width: 108px;
+                  height: 22px;
+                  margin-left: 165;
+                  
+                  font-family: Lato;
+                  font-style: normal;
+                  font-weight: 900;
+                  font-size: 16px;
+                  line-height: 21px;
+                 
+                  text-align: center;
+                  
+                  color: #355075;
+                }
+              
+                .para3{
+                    
+              position: relative;
+              width: 273px;
+              height: 33px;
+              margin-left: 88;
+              font-family: Lato;
+              font-style: normal;
+              font-weight: normal;
+              font-size: 12px;
+              line-height: 16px;
+              text-align: center;
+              margin-top: -15px;
+              color: #355075;
+              
+              opacity: 0.7;
+                }
+              
+              
+              
+                .para4{
+                  position: relative;
+                  width: 370px;
+                  height: 341px;
+                  margin-left: 30;
+                  margin-top: -20px;
+                  font-family: Lato;
+                  font-style: normal;
+                  font-weight: normal;
+                  font-size: 18px;
+                  line-height: 170%;
+                  text-align: center;
+                  
+                  color: #355075;
+                  
+                  opacity: 0.87;
+              
+                }
+              
+                .button{
+                  position: relative;
+                  width: 52px;
+                  height: 18px;
+                  margin-left: 190px;
+                  margin-top: 32;
+                }
+                
+  }
+
+
+/* media query for 500 resolution  */
+@media only screen and (min-width: 500px){ 
+
+    
+.head{   
+    position: relative;
+    width: 441px;
+    margin-top: 40px;
+    margin-left: 118;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 49px;
+    
+    
+    color: #355075;
+    }
+    .para1{
+        position: relative;
+    width: 387px;
+    margin-top: -27px;
+    margin-left: 31;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    color: #355075;
+    }
+    
+    
+    .back_rect{
+     
+        position: relative;
+        width: 465px;
+        
+        margin-left: 8.94px;
+        
+        background: #FFFFFF;
+        border: 1px solid rgba(0, 0, 0, 0.05);
+        box-sizing: border-box;
+        box-shadow: 0px 4px 29px #D6E1E5;
+          }
+
+          .image{
+      
+            position: relative;
+            width: 441px;
+            height: 220px;
+            margin-left: 8.94px;
+            margin-top: 6.04px;
+            background: url("mask3.png");
+            background-size: cover; 
+              }
+
+              .logo{
+                position: relative;
+                width: 142px;
+                height: 71.74px;
+                margin-top: -215px;
+                padding-left: 154px;
+              }
+            
+              .profile{
+                position: relative;
+                width: 64px;
+                margin-top: 16px;
+                margin-left: 190px;
+                border: 3px solid white;
+               border-radius: 50%;
+              
+            }
+
+              .para2{
+                position: relative;
+                width: 321px;
+                
+                margin-top: -130px;
+                
+                font-family: Lato;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px;
+                line-height: 154%;
+            
+                text-align: center;
+            
+            color: #FFFFFF; 
+                padding-left: 64px;
+                opacity: 0.87;
+              }
+          
+              .name{
+                position: relative;
+                width: 108px;
+                height: 22px;
+                margin-left: 165;
+                
+                font-family: Lato;
+                font-style: normal;
+                font-weight: 900;
+                font-size: 16px;
+                line-height: 21px;
+               
+                text-align: center;
+                
+                color: #355075;
+              }
+            
+              .para3{
+                  
+            position: relative;
+            width: 273px;
+            height: 33px;
+            margin-left: 88;
+            font-family: Lato;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 16px;
+            text-align: center;
+            margin-top: -15px;
+            color: #355075;
+            
+            opacity: 0.7;
+              }
+            
+            
+            
+              .para4{
+                position: relative;
+                width: 400px;
+                height: 341px;
+                margin-left: 30;
+                margin-top: -20px;
+                font-family: Lato;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 170%;
+                text-align: center;
+                
+                color: #355075;
+                
+                opacity: 0.87;
+            
+              }
+            
+              .button{
+                position: relative;
+                width: 52px;
+                height: 18px;
+                margin-left: 190px;
+                margin-top: 32;
+              }
+              
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* media query for 650 resolution   */
+@media only screen and (min-width: 650px){
+
+    
+  .head{   
+      position: relative;
+      width: 441px;
+      margin-top: 40px;
+      margin-left: 160;
+      font-family: Lato;
+      font-style: normal;
+      font-weight: 200;
+      font-size: 20px;
+      line-height: 49px;
+      
+      
+      color: #355075;
+      }
+      .para1{
+          position: relative;
+      width: 387px;
+      margin-top: -27px;
+      margin-left: 75;
+      font-family: Lato;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 22px;
+      text-align: center;
+      
+      color: #355075;
+      }
+      
+      
+      .back_rect{
+       
+          position: relative;
+          width: 570px;
+          height: 605px;
+          margin-left: 8.94px;
+          
+          background: #FFFFFF;
+          border: 1px solid rgba(0, 0, 0, 0.05);
+          box-sizing: border-box;
+          box-shadow: 0px 4px 29px #D6E1E5;
+            }
+  
+            .image{
+        
+              position: relative;
+              width: 550.75px;
+              height: 220px;
+              margin-left: 8.94px;
+              margin-top: 6.04px;
+              background: url("mask4.png");
+              background-size: cover; 
+                }
+  
+                .logo{
+                  position: relative;
+                  width: 142px;
+                  height: 71.74px;
+                  margin-top: -195px;
+                  margin-left: 58px;
+                }
+              
+                .profile{
+                  position: relative;
+                  width: 64px;
+                  margin-top: 40px;
+                  margin-left: 244.75px;
+                  border: 3px solid white;
+                 border-radius: 50%;
+                
+              }
+  
+                .para2{
+                  position: relative;
+                  width: 505px;
+                  
+                  margin-top: -130px;
+                  
+                  font-family: Lato;
+                  font-style: normal;
+                  font-weight: normal;
+                  font-size: 14px;
+                  line-height: 154%;
+              
+                  text-align: center;
+              
+              color: #FFFFFF; 
+                  padding-left: 64px;
+                  opacity: 0.87;
+                }
+            
+                .name{
+                  position: relative;
+                  width: 108px;
+                  height: 22px;
+                  margin-left: 220;
+                  
+                  font-family: Lato;
+                  font-style: normal;
+                  font-weight: 900;
+                  font-size: 16px;
+                  line-height: 21px;
+                 
+                  text-align: center;
+                  
+                  color: #355075;
+                }
+              
+                .para3{
+                    
+              position: relative;
+              width: 273px;
+              height: 33px;
+              margin-left: 140;
+              font-family: Lato;
+              font-style: normal;
+              font-weight: normal;
+              font-size: 12px;
+              line-height: 16px;
+              text-align: center;
+              margin-top: -15px;
+              color: #355075;
+              
+              opacity: 0.7;
+                }
+              
+              
+              
+                .para4{
+                  position: relative;
+                  width: 530px;
+                  height: 341px;
+                  margin-left: 20;
+                  margin-top: -20px;
+                  font-family: Lato;
+                  font-style: normal;
+                  font-weight: normal;
+                  font-size: 18px;
+                  line-height: 170%;
+                  text-align: center;
+                  
+                  color: #355075;
+                  
+                  opacity: 0.87;
+              
+                }
+              
+                .button{
+                  position: relative;
+                  width: 52px;
+                  height: 18px;
+                  margin-left: 260px;
+                  margin-top: 32;
+                }
+                
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* media query for 1050 resolution */  
+@media only screen and (min-width: 1050px){
+
+    
+    .head{   
+        position: relative;
+        width: 213px;
+        margin-top: 40px;
+        margin-left: 395;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 20px;
+        line-height: 49px;
+        
+        
+        color: #355075;
+        }
+        .para1{
+            position: relative;
+        width: 387px;
+        margin-top: -27px;
+        margin-left: 310;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        
+        color: #355075;
+        }
+        
+        
+        .back_rect{
+         
+            position: relative;
+            width: 970px;
+            height: 460px;
+            margin-left: 8.94px;
+            
+            background: #FFFFFF;
+            border: 1px solid rgba(0, 0, 0, 0.05);
+            box-sizing: border-box;
+            box-shadow: 0px 4px 29px #D6E1E5;
+              }
+    
+              .image{
+          
+                position: relative;
+                width: 359.19px;
+                height: 435px;
+                margin-left: 8.94px;
+                margin-top: 6.04px;
+                background: url("mask5.png");
+                background-size: cover; 
+                  }
+    
+                  .logo{
+                    position: relative;
+                    width: 142px;
+                    height: 71.74px;
+                    margin-top: -312px;
+                    margin-left: -38px;
+                  }
+                
+                  .profile{
+                    position: relative;
+                    width: 64px;
+                    margin-top: -300px;
+                    margin-left: 335px;
+                    border: 3px solid white;
+                   border-radius: 50%;
+                  
+                }
+    
+                  .para2{
+                    position: relative;
+                    width:229px;
+                    
+                    margin-top: -222px;
+                    
+                    font-family: Lato;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 14px;
+                    line-height: 154%;
+                
+                    text-align: center;
+                
+                color: #FFFFFF; 
+                    padding-left: 64px;
+                    opacity: 0.87;
+                  }
+              
+                  .name{
+                    position: relative;
+                    width: 108px;
+                    height: 22px;
+                    margin-left: 435;
+                    margin-top: -290px;
+                    font-family: Lato;
+                    font-style: normal;
+                    font-weight: 900;
+                    font-size: 16px;
+                    line-height: 21px;
+                   
+                    text-align: center;
+                    
+                    color: #355075;
+                  }
+                
+                  .para3{
+                      
+                position: relative;
+                width: 273px;
+                height: 33px;
+                margin-left: 430;
+                font-family: Lato;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 12px;
+                line-height: 16px;
+                text-align: center;
+                margin-top: -15px;
+                color: #355075;
+                
+                opacity: 0.7;
+                  }
+                
+                
+                
+                  .para4{
+                    position: relative;
+                    width: 525px;
+                    height: 325px;
+                    margin-left: 435;
+                    margin-top: -20px;
+                    font-family: Lato;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 20px;
+                    line-height: 170%;
+                    text-align: left;
+                    
+                    color: #355075;
+                    
+                    opacity: 0.87;
+                
+                  }
+                
+                  .button{
+                    position: relative;
+                    width: 52px;
+                    height: 18px;
+                    margin-left: 480px;
+                    margin-top: 32;
+                  }
+                  
+    }
+
+ 
+
+
+
+
+
